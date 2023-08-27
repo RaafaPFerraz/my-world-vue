@@ -1,0 +1,8 @@
+# Formatting configuration for files with .vue extension
+overrides:
+  - files: "*.vue"
+    options:
+      semi: true
+      printWidth: 80
+      bracketSameLine: true
+      htmlWhitespaceSensitivity: strict
